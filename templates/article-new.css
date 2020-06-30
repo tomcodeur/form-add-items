@@ -1,0 +1,29 @@
+.container {
+    margin-top: 100px;
+}
+
+h1 {
+    margin-bottom: 50px;
+    color: #d6efc7;
+}
+
+body {
+    background-color: #184d47;
+}
+
+label {
+    color: #d6efc7;
+}
+
+.--btnModif{
+    background-color: #eebb4d;
+    border: 1px solid #96bb7c;
+}
+
+.--btnModif:hover{
+    background-color: #96bb7c;
+    border: 1px solid #eebb4d;
+}
+
+
+
